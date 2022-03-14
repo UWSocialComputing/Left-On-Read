@@ -5,7 +5,7 @@
 **twyd** ("that's what you're doing") was created out of the idea of capturing elements of passive human interaction in the physical space and carrying them over onto the online space.
 
 ## Features
-Twyd rooms allows you to connect with friends to simulate the feeling we get when we are working together in a room. 
+twyd rooms allow you to connect with friends to simulate the feeling we get when we are working together in a room. 
 ### Keyboard Activity Indicator
 The first feature lets you visualize a person's keyboard activity through a blink for each keystroke around their icon. "Hear" who's busy typing away!
 <br><img width="400" 
