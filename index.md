@@ -1,4 +1,4 @@
-<img src="https://github.com/UWSocialComputing/Left-On-Read/blob/main/images/favicon.png?raw=true" alt="chrome extension"/>*Exploring passive methods of communication and connection.* 
+<img src="https://github.com/UWSocialComputing/Left-On-Read/blob/main/images/favicon.png?raw=true" alt="chrome extension"/>  *Exploring passive methods of communication and connection.* 
 
 ## The project
 
