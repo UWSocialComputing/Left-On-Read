@@ -11,9 +11,9 @@ Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Projec
 
 ### Keyboard Activity Indicator
 
-<img src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/extension_pic.jpg" alt="chrome extension" width="500"/>
+<img class="frontimg" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/extension_pic.jpg" alt="chrome extension"/>
 
 
 ### Current Tab Indicator
 
-<img src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/extension_gif.gif" alt="chrome extension typing animation" width="500"/>
+<img class="frontimg" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/extension_gif.gif" alt="chrome extension typing animation"/>
