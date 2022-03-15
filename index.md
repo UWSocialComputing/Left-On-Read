@@ -27,9 +27,13 @@ Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Projec
 
 ## About Us
 Team:
-- [Catherine Guevara](mailto:cgueva@cs.washington.edu)(they/them)
-- [Christopher Kang](mailto:ck32@uw.edu)(he/him)
-- [Jerome Paliakkara](mailto:jeromp@cs.washington.edu)(he/him)
-- [Roberto Ramirez-Diaz](mailto:rbrd@cs.washington.edu)(he/him)
+- [Catherine Guevara](mailto:cgueva@cs.washington.edu) (they/them)
+- [Christopher Kang](mailto:ck32@uw.edu) (he/him)
+- [Jerome Paliakkara](mailto:jeromp@cs.washington.edu) (he/him)
+- [Roberto Ramirez-Diaz](mailto:rbrd@cs.washington.edu) (he/him)
 
 ![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
+![Chris' profile pic](./images/profile_ck.png "Chris's picture")
+![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
+![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
+
