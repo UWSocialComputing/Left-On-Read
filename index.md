@@ -12,7 +12,7 @@ twyd rooms allow you to connect with friends to simulate the feeling we get when
 The first feature lets you visualize a person's keyboard activity through a blink for each keystroke around their icon. "Hear" who's busy typing away!
 
 <img width="400" 
-     height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/extension_gif.gif" alt="chrome extension typing animation"/>
+     height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/keyboard_activity.gif" alt="chrome extension typing animation"/>
 
 
 
@@ -20,7 +20,7 @@ The first feature lets you visualize a person's keyboard activity through a blin
 The second feature is allows you to check up on what your friends are doing without having to ask!
 
 <img width="400" 
-     height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/extension_pic.jpg" alt="chrome extension"/>
+     height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/current_tab.jpg" alt="chrome extension"/>
 
 Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Project) and blog posts document our development from start to end. Instructions on installation can be found in the [README.md](https://github.com/UWSocialComputing/Left-On-Read-Project#readme) file.
 
