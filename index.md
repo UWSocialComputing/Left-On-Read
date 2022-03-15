@@ -17,7 +17,7 @@ The first feature lets you visualize a person's keyboard activity through a blin
 
 
 ### Current Tab Indicator
-The second feature is allows you to check up on what your friends are doing without having to ask!
+The second feature allows you to see what your friends are doing (aka what tab they're on) without having to ask!
 
 <img width="400" 
      height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/current_tab.gif" alt="chrome extension"/>
