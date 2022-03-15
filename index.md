@@ -20,7 +20,7 @@ The first feature lets you visualize a person's keyboard activity through a blin
 The second feature is allows you to check up on what your friends are doing without having to ask!
 
 <img width="400" 
-     height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/current_tab.jpg" alt="chrome extension"/>
+     height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/current_tab.gif" alt="chrome extension"/>
 
 Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Project) and blog posts document our development from start to end. Instructions on installation can be found in the [README.md](https://github.com/UWSocialComputing/Left-On-Read-Project#readme) file.
 
