@@ -27,7 +27,8 @@ Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Projec
 
 ## About Us
 Team:
-- [Catherine Guevara](mailto:cgueva@cs.washington.edu) (they/them)
+- [Catherine Guevara](mailto:cgueva@cs.washington.edu) (they/them) 
+"I'm an artist and graphic designer outside of software engineering!"
 - [Christopher Kang](mailto:ck32@uw.edu) (he/him)
 "My favorite fruit is lemons!"
 - [Jerome Paliakkara](mailto:jeromp@cs.washington.edu) (he/him)
