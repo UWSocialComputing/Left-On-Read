@@ -29,11 +29,13 @@ Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Projec
 Team:
 - [Catherine Guevara](mailto:cgueva@cs.washington.edu) (they/them)
 - [Christopher Kang](mailto:ck32@uw.edu) (he/him)
+"My favorite fruit is lemons!"
 - [Jerome Paliakkara](mailto:jeromp@cs.washington.edu) (he/him)
+"I've performed a card trick to an audience of like 300 people"
 - [Roberto Ramirez-Diaz](mailto:rbrd@cs.washington.edu) (he/him)
 
 ![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
 ![Chris' profile pic](./images/profile_ck.png "Chris's picture")
-![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
+![Jerome's profile pic](./images/profile_jp.png "Jerome's picture")
 ![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
 
