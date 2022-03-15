@@ -22,6 +22,5 @@ The second feature is allows you to check up on what your friends are doing with
 <img width="400" 
      height="auto" src="https://raw.githubusercontent.com/UWSocialComputing/Left-On-Read/main/images/current_tab.gif" alt="chrome extension"/>
 
-Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Project) and blog posts document our development from start to end. Instructions on installation can be found in the [README.md](https://github.com/UWSocialComputing/Left-On-Read-Project#readme) file.
-
+Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Project) and blog posts document our development from start to end. Instructions on installation can be found in the [README.md](https://github.com/UWSocialComputing/Left-On-Read-Project#readme) file. You can also see our presentation/demo video [here](https://drive.google.com/file/d/1NmX_dSBcBo-rtpyjqd9ABfWWTY9C7fCz/view?usp=sharing).
 <br>
