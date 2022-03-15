@@ -1,4 +1,6 @@
-<img src="https://github.com/UWSocialComputing/Left-On-Read/blob/main/images/favicon.png?raw=true" alt="chrome extension"/>  *Exploring passive methods of communication and connection.* 
+<div style="text-align: center;"><img style="width: 20%; padding: 5%;" src="https://github.com/UWSocialComputing/Left-On-Read/blob/main/images/twydlogo.png?raw=true" alt="chrome extension"/></div>
+
+*Exploring passive methods of communication and connection.* 
 
 ## The project
 
