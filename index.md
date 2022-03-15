@@ -24,3 +24,12 @@ The second feature allows you to see what your friends are doing (aka what tab t
 
 Our [Github Repository](https://github.com/UWSocialComputing/Left-On-Read-Project) and blog posts document our development from start to end. Instructions on installation can be found in the [README.md](https://github.com/UWSocialComputing/Left-On-Read-Project#readme) file. You can also see our presentation/demo video [here](https://drive.google.com/file/d/1NmX_dSBcBo-rtpyjqd9ABfWWTY9C7fCz/view?usp=sharing).
 <br>
+
+## About Us
+Team:
+- [Catherine Guevara](mailto:cgueva@cs.washington.edu)(they/them)
+- [Christopher Kang](mailto:ck32@uw.edu)(he/him)
+- [Jerome Paliakkara](mailto:jeromp@cs.washington.edu)(he/him)
+- [Roberto Ramirez-Diaz](mailto:rbrd@cs.washington.edu)(he/him)
+
+![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
