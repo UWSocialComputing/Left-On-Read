@@ -32,7 +32,8 @@ Team:
 "My favorite fruit is lemons!"
 - [Jerome Paliakkara](mailto:jeromp@cs.washington.edu) (he/him)
 "I've performed a card trick to an audience of like 300 people"
-- [Roberto Ramirez-Diaz](mailto:rbrd@cs.washington.edu) (he/him)
+- [Roberto Ramirez-Diaz](mailto:rbrd@cs.washington.edu) (he/him) 
+"My favorite drink is water."
 
 ![Profile Collage](./images/collage.png "Collage picture")
 
