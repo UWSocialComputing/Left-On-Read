@@ -34,8 +34,11 @@ Team:
 "I've performed a card trick to an audience of like 300 people"
 - [Roberto Ramirez-Diaz](mailto:rbrd@cs.washington.edu) (he/him)
 
-![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
+![Profile Collage](./images/collage.png "Collage picture")
+
+
+<!-- ![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
 ![Chris' profile pic](./images/profile_ck.jpg "Chris's picture")
 ![Jerome's profile pic](./images/profile_jp.png "Jerome's picture")
-![Catherine's profile pic](./images/profile_cg.png "Catherine's picture")
+![Catherine's profile pic](./images/profile_cg.png "Catherine's picture") -->
 
